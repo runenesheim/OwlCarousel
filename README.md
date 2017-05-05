@@ -1,0 +1,1 @@
+Modified [Owl Carousel](http://owlgraphic.com/owlcarousel) to preload next image before move, load retina images and more.
